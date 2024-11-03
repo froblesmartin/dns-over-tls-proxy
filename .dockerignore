@@ -1,0 +1,6 @@
+.vscode/
+docs/
+.editorconfig
+docker-compose.yaml
+Dockerfile
+README.md
